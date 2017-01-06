@@ -1,6 +1,9 @@
 # docker-scripts :whale:
 
-## README.md
+## docker_images_upgrade_all.sh
 
-* docker_images_upgrade_all.sh
-    "docker images upgrade all"
+"docker images upgrade all"
+
+## docker_rmi_images_none.sh
+
+"docker rmi images none" (remove all untagged images)
